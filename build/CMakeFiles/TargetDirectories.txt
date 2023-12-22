@@ -1,0 +1,9 @@
+/home/office/source/cpp/dicomcopy/build/CMakeFiles/package.dir
+/home/office/source/cpp/dicomcopy/build/CMakeFiles/package_source.dir
+/home/office/source/cpp/dicomcopy/build/CMakeFiles/edit_cache.dir
+/home/office/source/cpp/dicomcopy/build/CMakeFiles/rebuild_cache.dir
+/home/office/source/cpp/dicomcopy/build/src/CMakeFiles/dicomcopy.dir
+/home/office/source/cpp/dicomcopy/build/src/CMakeFiles/package.dir
+/home/office/source/cpp/dicomcopy/build/src/CMakeFiles/package_source.dir
+/home/office/source/cpp/dicomcopy/build/src/CMakeFiles/edit_cache.dir
+/home/office/source/cpp/dicomcopy/build/src/CMakeFiles/rebuild_cache.dir
