@@ -1,7 +1,8 @@
 [
 {
-  "directory": "/home/office/source/cpp/dicomcopy/build/src",
-  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/office/source/cpp/dicomcopy/include -isystem /usr/local/include/gdcm-3.0 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -g -fPIC -std=gnu++17 -o CMakeFiles/dicomcopy.dir/main.cpp.o -c /home/office/source/cpp/dicomcopy/src/main.cpp",
-  "file": "/home/office/source/cpp/dicomcopy/src/main.cpp"
+  "directory": "C:/Users/shaesler.HELIOS-DOM/source/dicomcopy/build",
+  "command": "C:\\Users\\shaesler.HELIOS-DOM\\AppData\\Local\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/shaesler.HELIOS-DOM/source/dicomcopy/. -g -std=gnu++17 -o src\\CMakeFiles\\dicomcopy.dir\\main.cpp.obj -c C:\\Users\\shaesler.HELIOS-DOM\\source\\dicomcopy\\src\\main.cpp",
+  "file": "C:\\Users\\shaesler.HELIOS-DOM\\source\\dicomcopy\\src\\main.cpp",
+  "output": "src\\CMakeFiles\\dicomcopy.dir\\main.cpp.obj"
 }
 ]
